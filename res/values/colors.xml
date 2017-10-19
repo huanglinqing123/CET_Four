@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="titlebar_bg">#222222</color>
+    <color name="select_default">#969fa5</color>
+    <color name="select_right">#48daa9</color>
+    <color name="select_error">#eb6161</color>
+    <color name="select_select">#c6c6c6</color>
+    <color name="select_answered">#60adde</color>
+    
+    <color name="right_answer">#009100</color>
+</resources>
